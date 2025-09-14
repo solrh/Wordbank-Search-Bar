@@ -1,0 +1,19 @@
+{
+  "name": "wordbank_search_bar",
+  "version": "1.0.0",
+  "description": "A simple search bar that will retrieve words that match a certain pattern from a database.",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solrh/Wordbank-Search-Bar.git"
+  },
+  "author": "Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solrh/Wordbank-Search-Bar/issues"
+  },
+  "homepage": "https://github.com/solrh/Wordbank-Search-Bar#readme"
+}
