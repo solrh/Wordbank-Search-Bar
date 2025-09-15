@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A simple search bar that will retrieve words that match a certain pattern from a database.",
   "main": "index.html",
+  "type": "module",
   "scripts": {
     "test": "jest"
   },
